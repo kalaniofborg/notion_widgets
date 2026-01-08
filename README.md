@@ -5,7 +5,7 @@ A curated collection of custom Notion widgets, templates, and utilities designed
 
 # Notion Widgets & Templates
 
-A curated collection of **custom Notion widgets, templates, and UI utilities** built to enhance productivity, organization, and system design — especially for **business owners, creatives, and tech-focused workflows**.
+A curated collection of **custom Notion widgets, templates, and UI utilities** built to enhance productivity, organization, and system design,  especially for **business owners, creatives, and tech-focused workflows**.
 
 This repository is designed to be:
 -  Minimal & aesthetic
